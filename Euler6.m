@@ -9,5 +9,4 @@ for i = 1:length(a)
 end
 
 sq_sum = c^2;
-
 answer = sum_sq - sq_sum;
